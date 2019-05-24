@@ -1,0 +1,17 @@
+server:
+  port: 8082
+
+
+
+#person:
+#   lastName: zz
+#   age: 22
+#   boss: false
+#   birth: 2019/4/18
+#   maps: {k1: v1,k2: v2}
+#   lists:
+#     - ss
+#     - jj
+#   dog:
+#     name: 花花
+#     age: 2
