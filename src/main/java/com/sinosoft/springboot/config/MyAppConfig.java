@@ -16,6 +16,7 @@ public class MyAppConfig {
     public HelloService helloService2(){
         System.out.println("配置类@Bean给容器中添加组件了");
         return  new HelloService();
+        //试试分支
 
 
     }
